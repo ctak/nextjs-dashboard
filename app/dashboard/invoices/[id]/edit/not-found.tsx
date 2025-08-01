@@ -7,7 +7,7 @@ export default function NotFound() {
       <FaceFrownIcon className="w-10 text-gray-400" />
       <h2 className="mt-4 text-center text-xl font-semibold">404 Not Found</h2>
       <p className="mt-2 text-center text-gray-600">
-        We couldn't find the invoice you're looking for.
+        We couldn&apos;t find the invoice you&apos;re looking for.
       </p>
       <Link
         href="/dashboard/invoices"
